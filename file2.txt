@@ -1,0 +1,7 @@
+Nathan Reid
+Dec. 3rd, 2016
+Coding Dojo
+
+This is my second file in my basic_repo.  Both files are generic text.
+
+Regards, 
